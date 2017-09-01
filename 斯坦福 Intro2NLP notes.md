@@ -25,16 +25,23 @@ data representation is done by brilliant human
 # 5. DeepNLP = Deep Natural Language Processing
 ## word vector
 visualization
+
 similarity
 
 ## NLP 的表示级别
 ### 形态学
 un(prefix) interest(stem) suffix(ed)
+
+
 每个 morpheme 是一个 vector
+
 - [ ] Luong et al. 2013
+
 ### 语义
 每个单词，每个词组，每个逻辑表达式都是 vector
+
 NN 把两个 vectors 合成一个 vector (这里挺有意思)
+
 - [ ] Bowman et al. 2014
 
 ## NLP 工具：分析句子结构
@@ -44,6 +51,7 @@ NN 把两个 vectors 合成一个 vector (这里挺有意思)
 *RecursiveNN*
 ## QA
 - [ ] Berant et al.(2014) 传统做法
+
 DL: 用一个deep learning 结构，事实被存在向量里（嗯...how can you tell whether somethin is a fact?）
 
 ## 对话代理/回复生成
