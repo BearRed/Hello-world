@@ -16,7 +16,7 @@ symbol 通过连续信号传播
 探索 thought 的连续编码模式
 
 # 2. 为啥要用 DL?
-Finkel et al., 2010: 大概是定义了特征，为了找到 loc 和 org 的命名实体。想知道定义了什么特征
+- [ ] Finkel et al., 2010: 大概是定义了特征，为了找到 loc 和 org 的命名实体。想知道定义了什么特征
 
 data representation is done by brilliant human
 
@@ -39,5 +39,17 @@ NN 把两个 vectors 合成一个 vector (这里挺有意思)
 
 ## NLP 工具：分析句子结构
 这个真的挺有意思，虽然我对 sentence parsing 一无所知
+
+## NLP 应用：情感分析
+*RecursiveNN*
+## QA
+- [ ] Berant et al.(2014) 传统做法
+DL: 用一个deep learning 结构，事实被存在向量里（嗯...how can you tell whether somethin is a fact?）
+
+## 对话代理/回复生成
+Recurrent Language Model - Neural Language Models
+
+## 机器翻译
+
 
 
