@@ -1,3 +1,7 @@
+# Questions
+- [ ] Real newspaper headlines 真的是看不懂 哈哈
+
+# 1 NLP 是啥
 NLP 的目标是执行任务(perform tasks)
 major tasks:  Word similarities, parsing, machine translation, entity recognition, question answering, sentence comprehension
 
@@ -15,4 +19,4 @@ Finkel et al., 2010: 大概是定义了特征，为了找到 loc 和 org 的命�
 
 data representation is done by brilliant human
 
-- [ ] Real newspaper headlines 真的是看不懂 哈哈
+
