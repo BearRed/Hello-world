@@ -9,7 +9,7 @@ NLP 应用实例： Extracting information from websites
 
 human language: a system to convey meaning; a signaling system(discrete, categorical, symbolic)
 
-brain encodeing: 连续的激活模式(continuous pattern of activation)
+brain encodeing: 连续的激活模式(continuous pattern of activation).大脑用一种连续的方式编码东西。
 
 symbol 通过连续信号传播
 
